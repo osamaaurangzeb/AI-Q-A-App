@@ -5,20 +5,20 @@ The **AI-Powered Q&A Agent** is a web application that allows users to interact 
 
 ## Features
 - User-friendly chat interface with dynamic updates.
-- AI-driven responses using OpenAI GPT or other LLM models.
+- AI-driven responses using OpenAI GPT
 - Maintains conversation history for context-aware replies.
-- Backend API built with **FastAPI** (or Flask/Django/Node.js as needed).
+- Backend API built with **FastAPI**.
 - Frontend built with **React.js** for a responsive UI.
 - Error handling for invalid inputs or API failures.
 
 ## Tech Stack
 ### Frontend
 - **React.js** (with Hooks and Axios for API calls)
-- **CSS** (or TailwindCSS for styling)
+- **CSS** ( TailwindCSS for styling)
 
 ### Backend
-- **FastAPI** (or Flask/Django/Node.js for API handling)
-- **OpenAI API** (or another LLM model for AI responses)
+- **FastAPI** 
+- **OpenAI API**
 - **In-memory storage** (Python dictionary/JavaScript object for session history)
 
 ## Installation & Setup
